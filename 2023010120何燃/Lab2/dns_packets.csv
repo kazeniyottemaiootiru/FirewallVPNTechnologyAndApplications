@@ -1,0 +1,3 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"5894","51.993145","fe80::3cc2:6454:5ee7:5d96","fe80::1","DNS","95","Standard query 0xbb09 A www.yxnu.edu.cn"
+"5895","51.996004","fe80::1","fe80::3cc2:6454:5ee7:5d96","DNS","111","Standard query response 0xbb09 A www.yxnu.edu.cn A 61.166.32.242"
